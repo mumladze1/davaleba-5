@@ -1,0 +1,23 @@
+.quiz {
+max-width:500px ;
+padding: 10px ;
+border: 2px ;
+border-color: purple;
+margin: 0 auto;
+
+}
+.question{
+    margin-bottom:10px ;
+    font-weight: bold;
+}
+.answer{
+    border: 2px;
+    border-color: purple;
+    cursor: pointer;
+    padding: 5px;
+    margin: 5px;
+}
+.incorrect{ background-color: red;}
+.correct  { background-color:  rgb(14, 240, 14);}
+
+#sc{ margin-top: 15px;}
